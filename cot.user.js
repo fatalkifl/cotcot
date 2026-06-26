@@ -1,12 +1,3 @@
-// ==UserScript==
-// @name         Clash Of Trenchers Strategy Director
-// @namespace    local.codex.cot
-// @version      0.2.0
-// @description  Strategic safe automation for normal Clash Of Trenchers gameplay.
-// @match        https://clashoftrenchers.com/*
-// @grant        none
-// ==/UserScript==
-
 (() => {
   'use strict';
 
